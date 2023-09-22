@@ -6,3 +6,16 @@
 body {
     background-color: lightblue;
 }
+
+.notif_area {
+    background-color: grey;
+    width: 400px;
+    margin: 0 auto;
+    padding: 32px;
+}
+
+.notif{
+    background-color: rgb(0, 68, 255);
+    margin: 10px 0;
+}
+
